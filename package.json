@@ -1,0 +1,21 @@
+{
+  "name": "demojavascript",
+  "version": "0.0.0",
+  "description": "Tung Lam handsome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tunglam23296/NguyenTungLam.git"
+  },
+  "keywords": [
+    "TungLam"
+  ],
+  "author": "Nguyen Tung Lam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tunglam23296/NguyenTungLam/issues"
+  }
+}
